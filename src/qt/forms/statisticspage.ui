@@ -17,8 +17,7 @@
    <string>Digging</string>
   </property>
   <property name="styleSheet">
-   <string notr="true">color:#505050;
-font-family:'Open Sans,sans-serif';</string>
+   <string notr="true">font-family:'Open Sans,sans-serif';</string>
   </property>
   <layout class="QGridLayout" name="gridLayout">
    <property name="sizeConstraint">
