@@ -12,5 +12,6 @@ Specification:
 - PoS Min Stake Time: 2 Day
 - Pos Max Stake Time: 14 Days
 
-----
+Updates:
+
 
