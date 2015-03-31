@@ -15,12 +15,10 @@ Specification:
 Updates:
 
 Added new icons.
-
-src/qt/res/icons
+	src/qt/res/icons
 
 Added the Dark Theme as default.
-
-src/qt/res/themes/Default
+	src/qt/res/themes/Default
 
 Removed the heading font styles.
 
