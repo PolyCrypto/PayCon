@@ -33,5 +33,5 @@ scr/qt/forms/chatwindow.ui	(line 154, line 332, line 372)
 
 SetMinimumSize.
 
-	scr/qt/bitcoingui.ccp (line 88)
+scr/qt/bitcoingui.ccp (line 88)
 
