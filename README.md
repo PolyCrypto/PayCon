@@ -12,26 +12,6 @@ Specification:
 - PoS Min Stake Time: 2 Day
 - Pos Max Stake Time: 14 Days
 
-Updates:
+Updates: https://github.com/PolyCrypto/PayCon/blob/master/updates
 
-Added new icons.
-
-src/qt/res/icons
-
-Added the Dark Theme as default.
-
-src/qt/res/themes/Default
-
-Removed the heading font styles.
-
-scr/qt/forms/statisticspage.ui	(line 20, line 285)
-
-scr/qt/forms/blockbrowser.ui	(line 73)
-
-scr/qt/forms/chatwindow.ui	(line 154, line 332, line 372)
-
-
-SetMinimumSize.
-
-scr/qt/bitcoingui.ccp (line 88)
 
