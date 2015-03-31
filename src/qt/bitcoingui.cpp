@@ -85,7 +85,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
     notificator(0),
     rpcConsole(0)
 {
-    setMinimumSize(850,560);
+    setMinimumSize(850,600);
             resize(850,600);
     setWindowTitle(tr("PayCon") + " - " + tr("Wallet"));
 #ifndef Q_OS_MAC
