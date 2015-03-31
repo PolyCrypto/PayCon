@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
-<class>StatisticsPage</class>
+ <class>StatisticsPage</class>
  <widget class="QWidget" name="StatisticsPage">
   <property name="windowModality">
    <enum>Qt::NonModal</enum>
