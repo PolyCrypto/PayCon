@@ -7,14 +7,9 @@ Added the Dark Theme as default.
     src/qt/res/themes/Default
 
 Removed the heading font styles.
-
-scr/qt/forms/statisticspage.ui	(line 20, line 285)
-
-scr/qt/forms/blockbrowser.ui	(line 73)
-
-scr/qt/forms/chatwindow.ui	(line 154, line 332, line 372)
-
+    scr/qt/forms/statisticspage.ui	(line 20, line 285)
+    scr/qt/forms/blockbrowser.ui	(line 73)
+    scr/qt/forms/chatwindow.ui	(line 154, line 332, line 372)
 
 SetMinimumSize.
-
-scr/qt/bitcoingui.ccp (line 88)
+    scr/qt/bitcoingui.ccp (line 88)
