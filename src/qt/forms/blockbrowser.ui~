@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
-<class>BlockBrowser</class>
+ <class>BlockBrowser</class>
  <widget class="QWidget" name="BlockBrowser">
   <property name="windowModality">
    <enum>Qt::NonModal</enum>
